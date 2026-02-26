@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "schema": "eva.trust.v2",
+    "generated_at": "2026-02-25T06:37:33.632Z",
+    "repo": "C:\\AICOE\\eva-foundation\\32-logging",
+    "reconciliation_path": "C:\\AICOE\\eva-foundation\\32-logging\\.eva\\reconciliation.json"
+  },
+  "score": 0,
+  "stale": false,
+  "sparkline": "0 -> 0 -> 0 -> 0 -> 0 -> 0 -> 0",
+  "sparkline_delta": "no change",
+  "components": {},
+  "actions": [
+    "block",
+    "investigate"
+  ]
+}

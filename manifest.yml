@@ -1,0 +1,12 @@
+# EVA project manifest -- story-to-artifact map
+# EVA-STORY: F32-01-001
+# EVA-STORY: F32-01-002
+# EVA-STORY: F32-01-003
+# EVA-STORY: F32-02-001
+# EVA-STORY: F32-02-002
+# EVA-STORY: F32-02-003
+# EVA-STORY: F32-03-001
+# EVA-STORY: F32-03-002
+# EVA-STORY: F32-03-003
+project: 32-logging
+type: documentation-artifact
